@@ -1,2 +1,2 @@
 # Exercicios-Mysql
- Exercicios passados em aula na faculdade Nota de atividade 970
+Estes exercícios foram desenvolvidos com o objetivo de praticar conceitos fundamentais de banco de dados utilizando a linguagem SQL, mais especificamente o MySQL. 
